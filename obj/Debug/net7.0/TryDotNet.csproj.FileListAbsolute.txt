@@ -1,0 +1,15 @@
+C:\TryDotNet\bin\Debug\net7.0\TryDotNet.exe
+C:\TryDotNet\bin\Debug\net7.0\TryDotNet.deps.json
+C:\TryDotNet\bin\Debug\net7.0\TryDotNet.runtimeconfig.json
+C:\TryDotNet\bin\Debug\net7.0\TryDotNet.dll
+C:\TryDotNet\bin\Debug\net7.0\TryDotNet.pdb
+C:\TryDotNet\obj\Debug\net7.0\TryDotNet.csproj.AssemblyReference.cache
+C:\TryDotNet\obj\Debug\net7.0\TryDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\TryDotNet\obj\Debug\net7.0\TryDotNet.AssemblyInfoInputs.cache
+C:\TryDotNet\obj\Debug\net7.0\TryDotNet.AssemblyInfo.cs
+C:\TryDotNet\obj\Debug\net7.0\TryDotNet.csproj.CoreCompileInputs.cache
+C:\TryDotNet\obj\Debug\net7.0\TryDotNet.dll
+C:\TryDotNet\obj\Debug\net7.0\refint\TryDotNet.dll
+C:\TryDotNet\obj\Debug\net7.0\TryDotNet.pdb
+C:\TryDotNet\obj\Debug\net7.0\TryDotNet.genruntimeconfig.cache
+C:\TryDotNet\obj\Debug\net7.0\ref\TryDotNet.dll
